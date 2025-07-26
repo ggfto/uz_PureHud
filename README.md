@@ -1,5 +1,5 @@
 ## 🚀 Get the Latest Version
-The latest version of Pure Hud is available for download on [**Latest Version**](https://www.uzscripts.com/scripts/pure-hud)
+The latest version of Pure Hud is available for download on [**Latest Version**](https://uz-scripts.com/scripts/pure-hud)
 
 <div align="center">
   <h1>UZ Scripts</h1>
@@ -7,8 +7,8 @@ The latest version of Pure Hud is available for download on [**Latest Version**]
 
 ## 📌 Quick Access
 - [**🎥 Watch Video**](https://youtu.be/xs9HUHDtX_o)
-- [**💻 Download Latest Version**](https://www.uzscripts.com/scripts/pure-hud)
-- [**💬 Join Discord**](https://discord.uzscripts.com/)
+- [**💻 Download Latest Version**](https://uz-scripts.com/scripts/pure-hud)
+- [**💬 Join Discord**](https://discord.gg/8zhnDMMfNk)
 
 <div align="center">
   <a href="https://youtu.be/xs9HUHDtX_o">
